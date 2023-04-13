@@ -1,4 +1,4 @@
 baseURL = 'http://personal.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme =['learn']
+theme =['hugo-theme-learn']
